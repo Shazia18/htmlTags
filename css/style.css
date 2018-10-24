@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+    
+  
+    
+}
+.intro{
+    background-color:burlywood;
+    text-align: center;
+    
+}
+.intro img{
+    margin-left: 400px;
+    margin-right: 400px;
+
+    width: 400px;
+    height: 400px;
+    padding: 5px;
+
+}
+.intro p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    background-color: darkolivegreen;
+
+}
+h1{
+    text-align: center;
+    color: blue;
+    background-color: darksalmon;
+    font-size: 50px;
+    font-family: fantasy;
+}
+.intro a{
+    float: right;
+    color: darkred;
+    font-size: 20px;
+    font-weight: bold;
+}
